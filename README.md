@@ -1,4 +1,4 @@
-# Simple python script to check course quota every sec and register on UMIS
+# check courses every sec and register on UMIS
 
 1.Capsolver to solve ReCaptcha on UMIS
 
