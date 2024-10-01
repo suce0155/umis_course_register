@@ -1,4 +1,4 @@
-# Simple python tool to register courses on UMIS
+# Simple python script to check course quota every sec and register 
 
 1.Capsolver to solve ReCaptcha on UMIS
 
@@ -6,4 +6,6 @@
 
 3.Displays student information (credit,taken courses etc.)
 
-4.Lazy to improve 
+4.Reads and Writes Bearer Token from/to umis_token.txt for later usage. (Tokens expire after 1h)
+
+5.Lazy to improve 
