@@ -88,7 +88,7 @@ def create_bearer_token():
 
     post_req = session.post(url="https://authapi.bau.edu.tr/api/auth/login", data=data)
 
-    if post_req.json()["success"] == False:
+    if post_req.json()["status"] == False:
         print("[-]",post_req.json()['message'])
         sys.exit(0)
 
