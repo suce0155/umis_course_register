@@ -11,10 +11,10 @@ import time
 email    = ""                                         #UMIS EMAIL
 password = ""                                         #UMIS PASSWORD
 api_key  = ""                                         #CAPSOLVER API KEY
-site_key = "6LelIscaAAAAAA0ODBaTFs_FUqS3WTgy-G0bP1pG" #SITE KEY FOR CAPSOLVER
-site_url = "https://umis.bau.edu.tr/login"            #SITE URL
 
-
+#GLOBALS
+site_key = "6LelIscaAAAAAA0ODBaTFs_FUqS3WTgy-G0bP1pG" 
+site_url = "https://umis.bau.edu.tr/login"            
 bearer = ""
 
 
